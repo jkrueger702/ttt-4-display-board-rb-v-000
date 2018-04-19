@@ -12,4 +12,3 @@ end
 puts "Turn 1 happened, X went in the middle"
 board = [" "," "," "," ","X"," "," "," "," "]
 display_board(board)
-
